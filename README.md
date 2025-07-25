@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first repository
 <br>
-Author-yuvika sharma
+Author-yuvika (apna college)
